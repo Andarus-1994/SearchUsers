@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Andarus-1994/SearchUsers/static/css/main.3db09a06.chunk.css",
-    "main.js": "/Andarus-1994/SearchUsers/static/js/main.4f3945ad.chunk.js",
-    "main.js.map": "/Andarus-1994/SearchUsers/static/js/main.4f3945ad.chunk.js.map",
-    "runtime-main.js": "/Andarus-1994/SearchUsers/static/js/runtime-main.ad2ce5e2.js",
-    "runtime-main.js.map": "/Andarus-1994/SearchUsers/static/js/runtime-main.ad2ce5e2.js.map",
-    "static/js/2.c03583b9.chunk.js": "/Andarus-1994/SearchUsers/static/js/2.c03583b9.chunk.js",
-    "static/js/2.c03583b9.chunk.js.map": "/Andarus-1994/SearchUsers/static/js/2.c03583b9.chunk.js.map",
-    "index.html": "/Andarus-1994/SearchUsers/index.html",
-    "precache-manifest.0c1e97f9d99a91b373dbad56af500892.js": "/Andarus-1994/SearchUsers/precache-manifest.0c1e97f9d99a91b373dbad56af500892.js",
-    "service-worker.js": "/Andarus-1994/SearchUsers/service-worker.js",
-    "static/css/main.3db09a06.chunk.css.map": "/Andarus-1994/SearchUsers/static/css/main.3db09a06.chunk.css.map",
-    "static/js/2.c03583b9.chunk.js.LICENSE.txt": "/Andarus-1994/SearchUsers/static/js/2.c03583b9.chunk.js.LICENSE.txt"
+    "main.css": "/SearchUsers/static/css/main.3db09a06.chunk.css",
+    "main.js": "/SearchUsers/static/js/main.f87d33de.chunk.js",
+    "main.js.map": "/SearchUsers/static/js/main.f87d33de.chunk.js.map",
+    "runtime-main.js": "/SearchUsers/static/js/runtime-main.4fa2c3fd.js",
+    "runtime-main.js.map": "/SearchUsers/static/js/runtime-main.4fa2c3fd.js.map",
+    "static/js/2.c03583b9.chunk.js": "/SearchUsers/static/js/2.c03583b9.chunk.js",
+    "static/js/2.c03583b9.chunk.js.map": "/SearchUsers/static/js/2.c03583b9.chunk.js.map",
+    "index.html": "/SearchUsers/index.html",
+    "precache-manifest.c3d2b80fba0e67aef9e046122b569809.js": "/SearchUsers/precache-manifest.c3d2b80fba0e67aef9e046122b569809.js",
+    "service-worker.js": "/SearchUsers/service-worker.js",
+    "static/css/main.3db09a06.chunk.css.map": "/SearchUsers/static/css/main.3db09a06.chunk.css.map",
+    "static/js/2.c03583b9.chunk.js.LICENSE.txt": "/SearchUsers/static/js/2.c03583b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad2ce5e2.js",
+    "static/js/runtime-main.4fa2c3fd.js",
     "static/js/2.c03583b9.chunk.js",
     "static/css/main.3db09a06.chunk.css",
-    "static/js/main.4f3945ad.chunk.js"
+    "static/js/main.f87d33de.chunk.js"
   ]
 }
